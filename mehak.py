@@ -1,1 +1,1 @@
-print("Hello, this is mehak.py")
+print("I am practicing for Lab MST")
